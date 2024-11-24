@@ -38,7 +38,7 @@ _Installing python on your system (skip this if you have it installed already)_
 sudo apt update && sudo apt upgrade -y
 ```
 ```bash
-sudo apt install python -y
+sudo apt install python python-pip -y
 ```
 _Cloning the GitHub repository_
 
