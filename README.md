@@ -2,6 +2,8 @@
 
 A semi private browser made using QTWebEngine in Python.
 
+![image](https://github.com/user-attachments/assets/cd509d10-3e8b-421c-afa9-d16421640946)
+
 ## Instalation
 
 ### For Windows
