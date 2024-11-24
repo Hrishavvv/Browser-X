@@ -40,6 +40,8 @@ sudo apt update && sudo apt upgrade -y
 ```bash
 sudo apt install python -y
 ```
+_Cloning the GitHub repository_
+
 ```bash
 git clone https://github.com/Hrishavvv/Browser-X.git/
 ```
