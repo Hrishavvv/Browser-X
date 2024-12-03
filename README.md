@@ -12,7 +12,7 @@ _Installing python on your system (skip this if you have it installed already)_
 
 Download the python installer from [here.](https://www.python.org/downloads/windows/)
 
-Run the installer and after installing Python open up CMD.
+Run the installer and after installing Python open up cmd.
 
 Type the following one by one (_Make sure you have git installed on your system if not [check this.](https://www.simplilearn.com/tutorials/git-tutorial/git-installation-on-windows)_):
 ```bash
