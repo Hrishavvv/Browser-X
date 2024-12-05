@@ -7,7 +7,7 @@ A browser UI made using PyQTWebEngine - a set of Python bindings for the QTWebEn
 ## What is QTWebEngine?
 > Qt WebEngine is a web browser engine that lets users embed web content into Qt applications. It's based on Chromium, but doesn't include Chrome services or add-ons. Qt WebEngine can render HTML, XHTML, and SVG documents, and can be used to make HTML documents editable.
 
-In short, it is basically chromium with a QT interface on top, so that you don't need to create a browser engine from scratch. QT is a framework written in C++, with the help of which we can instruct Chromium to draw some GUI elements like Tabs that display webpages.
+In short, it is basically chromium with a QT interface on top, so that you don't have to create a browser engine from scratch. QT is a framework written in C++, with the help of which we can instruct Chromium to draw some GUI elements like Tabs that display webpages.
 
 ## Installation 
 
