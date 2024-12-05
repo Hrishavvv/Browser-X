@@ -1,6 +1,6 @@
 # Browser X
 
-A semi private browser made using QTWebEngine in Python.
+A browser UI made using PyQTWebEngine - a set of Python bindings for the QTWebEngine Framework.
 
 ![image](https://github.com/user-attachments/assets/cd509d10-3e8b-421c-afa9-d16421640946)
 
